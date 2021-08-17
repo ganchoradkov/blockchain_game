@@ -1,6 +1,6 @@
 # Blockchain Memory Game
 
-Built with React + Solidy/web3.
+Built with React + Solidity/web3.
 
 The game includes a Token contract that can be deployed locally with Truffle.
 
